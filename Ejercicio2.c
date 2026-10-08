@@ -19,5 +19,10 @@ void main()
   scanf("%lf",&punto);
 
   //Imprimir valores de formato
+  printf("\n Imprimiendo las variable \a\n");
+  printf("\t Valor de numero entero es: %i \n",entnum);
+  printf("\t Valor del caracter ASCII es: %c \n",carac);
+  printf("\t Valor del caracter es: %c \n",carac2);
+  printf("\t Valor del numero real es: %lf \n",punto);
   return 0;
 }
