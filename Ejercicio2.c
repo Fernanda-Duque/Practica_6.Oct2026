@@ -13,9 +13,9 @@ void main()
   double punto;
 
   //Asignar valores de teclado a una variable
-  printf("EScriba un valor entero: ");
+  printf("Escriba un valor entero: ");
   scanf("%i",&entnum);
-  printf("EScriba un valor real: ");
+  printf("Escriba un valor real: ");
   scanf("%lf",&punto);
 
   //Imprimir valores de formato
@@ -24,5 +24,4 @@ void main()
   printf("\t Valor del caracter ASCII es: %c \n",carac);
   printf("\t Valor del caracter es: %c \n",carac2);
   printf("\t Valor del numero real es: %lf \n",punto);
-  return 0;
 }
