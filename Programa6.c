@@ -4,7 +4,7 @@ int main()
   int op;
   printf("\tMenú\n\n");
   printf("Elegir la opción deseada\n");
-  printf("1) Ingresar\n")
+  printf("1) Ingresar\n");
   printf("2) Registrarse\n");
   printf("3) Salir\n");
   scanf("%d",&op);
